@@ -114,12 +114,9 @@ The model provides:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{soga2024bayesian,
-  title={Constructing Bayesian Neural Network Model for Early Depression Prediction in Older Adults: Comprehensive Analysis of Humor Styles, Communication Skills, and Social Physical activity Experiences},
-  author={Soga Keishi and Kawamura Takuji and Uno Akari and Kamijo Keita and Taki Yasuyuki},
-  journal={In preparation},
-  year={2024}
-}
+Constructing Bayesian Neural Network Model for Early Depression Prediction in Older Adults: Comprehensive Analysis of Humor Styles, Communication Skills, and Social Physical Activity Experiences (in prepareation)
+
+Keishi Soga, Takuji Kawamura, Akari Uno, Keita Kamijo, Yasuyuki Taki
 ```
 
 ## Authors
