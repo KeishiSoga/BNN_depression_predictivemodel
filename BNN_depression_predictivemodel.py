@@ -166,24 +166,7 @@ print(f"Full data shape: X={X_full.shape}, y={y.shape}")
 # 3. Data standardization (optional recommended)
 ####################################
 # Calculate mean and standard deviation of numeric features
-#X_numeric_mean = X_numeric_scaled.mean(axis=0)
-#X_numeric_std = X_numeric_scaled.std(axis=0)
-#X_numeric_std[X_numeric_std == 0] = 1e-6  # Measure to prevent zero standard deviation
 
-# Standardization of numeric features
-#X_numeric_norm = (X_numeric_scaled - X_numeric_mean) / X_numeric_std
-
-# Use categorical features as is
-#X_categorical_norm = X_categorical
-
-# Recombine numeric and categorical features
-#X_norm = np.concatenate([X_numeric_norm, X_categorical_norm], axis=1)
-#X_norm = X_numeric_norm
-
-# Target variable scaling
-#y_mean = y.mean()
-#y_std = y.std() if y.std() != 0 else 1e-6
-#y_norm = (y - y_mean) / y_std
 
 # Train-test split (7:3)
 X_train_np, X_test_np, y_train_np, y_test_np = train_test_split(
