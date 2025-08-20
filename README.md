@@ -1,4 +1,5 @@
-# Bayesian Neural Network for Early Depression Prediction in Older Adults
+# Constructing Bayesian Neural Network Model for Early Psychological Distress in Older Adults: Comprehensive Analysis of Humor Styles, Communication Skills, and Social Physical Activity Experiences
+
 
 This repository contains the implementation of a Bayesian Neural Network (BNN) model for early depression prediction in older adults, with comprehensive analysis of humor styles, communication skills, and social physical activity experiences.
 
@@ -114,7 +115,7 @@ The model provides:
 If you use this code in your research, please cite:
 
 ```bibtex
-Constructing Bayesian Neural Network Model for Early Depression Prediction in Older Adults: Comprehensive Analysis of Humor Styles, Communication Skills, and Social Physical Activity Experiences (in prepareation)
+Constructing Bayesian Neural Network Model for Early Psychological Distress in Older Adults: Comprehensive Analysis of Humor Styles, Communication Skills, and Social Physical Activity Experiences (in prepareation)
 
 Keishi Soga, Takuji Kawamura, Akari Uno, Keita Kamijo, Yasuyuki Taki
 ```
