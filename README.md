@@ -1,5 +1,4 @@
-# Constructing Bayesian Neural Network Model for Early Psychological Distress in Older Adults: Comprehensive Analysis of Humor Styles, Communication Skills, and Social Physical Activity Experiences
-
+# Constructing Bayesian Neural Network Model for Early Psychological Distress in Older Adults
 
 This repository contains the implementation of a Bayesian Neural Network (BNN) model for early depression prediction in older adults, with comprehensive analysis of humor styles, communication skills, and social physical activity experiences.
 
